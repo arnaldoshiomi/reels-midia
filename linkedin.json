@@ -1,23 +1,107 @@
 [
-{"date":"2026-11-09","id":"P10","text":"Same acronym, two worlds. In trading card grading, PSA 10 is a gem mint card. In the clinic, a prostate-specific antigen of 10 ng/mL calls for a proper workup. I'm starting my series of short urology and biostatistics videos (in Portuguese) with this one, right in the middle of Movember. #urology #Movember #prostatecancer"},
-{"date":"2026-11-11","id":"U1","text":"Why renal colic comes in waves, and why stone size doesn't predict the pain. One minute, the way I explain it in clinic. Fever with colic is an emergency. #urology #kidneystones"},
-{"date":"2026-11-13","id":"B1","text":"Repeat the same study twenty times and p swings from 0.001 to 0.3 (Cumming, 2014, calls it the dance of the p values). One minute on what to ask instead of \"was it significant?\". #biostatistics #clinicalresearch"},
-{"date":"2026-11-16","id":"U2","text":"Fluid advice for stone formers is measured by urine output, not by the glass. One minute on the 2.5 L/day urine target and when to order a 24-hour urine. #urology #kidneystones"},
-{"date":"2026-11-18","id":"B2","text":"The definition of a 95% CI I use in class, with the fishing-net picture. A wide interval is not a flaw of the study; it is the data saying information is missing. #biostatistics #clinicalresearch"},
-{"date":"2026-11-20","id":"U3","text":"Many patients with calcium oxalate stones cut dairy on their own. Borghi's trial (NEJM, 2002) showed the opposite: normal calcium and low salt reduced recurrence. #urology #kidneystones"},
-{"date":"2026-11-23","id":"B3","text":"Absence of evidence is not evidence of absence (Altman and Bland, BMJ 1995). One minute on power and sample size before the first patient is enrolled. #biostatistics #clinicalresearch"},
-{"date":"2026-11-25","id":"U4","text":"Size, location and time: what weighs on the choice between waiting for a ureteral stone to pass and treating it. One minute, with the numbers from the 2007 AUA/EAU guideline (Preminger). #urology #kidneystones"},
-{"date":"2026-11-27","id":"B4","text":"The same 50% relative risk reduction can mean treating 100 patients to prevent one event, or 5. One minute on relative risk, absolute difference, NNT and odds ratio. #biostatistics #clinicalresearch"},
-{"date":"2026-11-30","id":"U5","text":"How I present kidney stone treatment options to patients: SWL, flexible ureteroscopy and PCNL, with 2 cm as the starting cut-off and the CT on the table. #endourology #urology"},
-{"date":"2026-12-02","id":"B5","text":"The thousand-people exercise, in natural frequencies as Gigerenzer proposes. The quickest way I know to show why the same test result weighs differently in each patient. #biostatistics #diagnostics"},
-{"date":"2026-12-04","id":"U6","text":"One minute for the patient who arrives worried about a raised PSA: what raises it, what to avoid before the test, and where MRI fits before biopsy. #urology #prostatecancer"},
-{"date":"2026-12-07","id":"B6","text":"The coffee-and-cigarettes example for confounding, and the limit of regression and propensity scores: they only adjust for what was measured. #biostatistics #epidemiology"},
-{"date":"2026-12-09","id":"U7","text":"Lower urinary tract symptoms in older men, explained for patients: what BPH does to the bladder and why treating it beats putting up with it. #urology #menshealth"},
-{"date":"2026-12-11","id":"B7","text":"Kaplan and Meier published the method in 1958 and it is still the first plot I look at in a survival study. One minute on steps, censoring and the log-rank test. #biostatistics #clinicalresearch"},
-{"date":"2026-12-14","id":"U8","text":"Painless gross hematuria still reaches the urologist late because the bleeding stops. One minute on why to investigate anyway: urinalysis, imaging and cystoscopy. #urology #oncology"},
-{"date":"2026-12-16","id":"B8","text":"Redelmeier (2001) and Sylvestre's reanalysis (2006) are the best example I know of immortal time bias, a frequent problem in real-world studies. #biostatistics #RWE"},
-{"date":"2026-12-18","id":"U9","text":"One minute of self-exam, once a month. Worth sending to young patients and to the sons of our patients. #urology #menshealth"},
-{"date":"2026-12-21","id":"B9","text":"The routine I give students for reading the forest plot of a meta-analysis: weights, line of no effect, diamond and heterogeneity. #metaanalysis #biostatistics"},
-{"date":"2026-12-23","id":"U10","text":"Recurrent UTI in women: definition, a urine culture for every episode, and non-antibiotic prevention before prophylaxis. One minute for patients. #urology #UTI"},
-{"date":"2026-12-28","id":"B10","text":"Borenstein and colleagues (2017) showed why I² does not measure how much the effect varies. That is why the prediction interval should sit next to the summary estimate. #metaanalysis #biostatistics"}
+{
+"date": "2026-11-09",
+"id": "P10",
+"text": "Same acronym, two worlds. In trading card grading, PSA 10 is a gem mint card. In the clinic, a prostate-specific antigen of 10 ng/mL calls for a proper workup. I'm starting my series of short urology and biostatistics videos (in Portuguese) with this one, right in the middle of Movember. #urology #Movember #prostatecancer"
+},
+{
+"date": "2026-11-11",
+"id": "U1",
+"text": "Why renal colic comes in waves, and why stone size doesn't predict the pain. One minute, the way I explain it in clinic. Fever with colic is an emergency. #urology #kidneystones"
+},
+{
+"date": "2026-11-16",
+"id": "B1",
+"text": "Repeat the same study twenty times and p swings from 0.001 to 0.3 (Cumming, 2014, calls it the dance of the p values). One minute on what to ask instead of \"was it significant?\". #biostatistics #clinicalresearch"
+},
+{
+"date": "2026-11-18",
+"id": "U2",
+"text": "Fluid advice for stone formers is measured by urine output, not by the glass. One minute on the 2.5 L/day urine target and when to order a 24-hour urine. #urology #kidneystones"
+},
+{
+"date": "2026-11-23",
+"id": "B2",
+"text": "The definition of a 95% CI I use in class, with the fishing-net picture. A wide interval is not a flaw of the study; it is the data saying information is missing. #biostatistics #clinicalresearch"
+},
+{
+"date": "2026-11-25",
+"id": "U3",
+"text": "Many patients with calcium oxalate stones cut dairy on their own. Borghi's trial (NEJM, 2002) showed the opposite: normal calcium and low salt reduced recurrence. #urology #kidneystones"
+},
+{
+"date": "2026-11-30",
+"id": "B3",
+"text": "Absence of evidence is not evidence of absence (Altman and Bland, BMJ 1995). One minute on power and sample size before the first patient is enrolled. #biostatistics #clinicalresearch"
+},
+{
+"date": "2026-12-02",
+"id": "U4",
+"text": "Size, location and time: what weighs on the choice between waiting for a ureteral stone to pass and treating it. One minute, with the numbers from the 2007 AUA/EAU guideline (Preminger). #urology #kidneystones"
+},
+{
+"date": "2026-12-07",
+"id": "B4",
+"text": "The same 50% relative risk reduction can mean treating 100 patients to prevent one event, or 5. One minute on relative risk, absolute difference, NNT and odds ratio. #biostatistics #clinicalresearch"
+},
+{
+"date": "2026-12-09",
+"id": "U5",
+"text": "How I present kidney stone treatment options to patients: SWL, flexible ureteroscopy and PCNL, with 2 cm as the starting cut-off and the CT on the table. #endourology #urology"
+},
+{
+"date": "2026-12-14",
+"id": "B5",
+"text": "The thousand-people exercise, in natural frequencies as Gigerenzer proposes. The quickest way I know to show why the same test result weighs differently in each patient. #biostatistics #diagnostics"
+},
+{
+"date": "2026-12-16",
+"id": "U6",
+"text": "One minute for the patient who arrives worried about a raised PSA: what raises it, what to avoid before the test, and where MRI fits before biopsy. #urology #prostatecancer"
+},
+{
+"date": "2026-12-21",
+"id": "B6",
+"text": "The coffee-and-cigarettes example for confounding, and the limit of regression and propensity scores: they only adjust for what was measured. #biostatistics #epidemiology"
+},
+{
+"date": "2026-12-23",
+"id": "U7",
+"text": "Lower urinary tract symptoms in older men, explained for patients: what BPH does to the bladder and why treating it beats putting up with it. #urology #menshealth"
+},
+{
+"date": "2026-12-28",
+"id": "B7",
+"text": "Kaplan and Meier published the method in 1958 and it is still the first plot I look at in a survival study. One minute on steps, censoring and the log-rank test. #biostatistics #clinicalresearch"
+},
+{
+"date": "2026-12-30",
+"id": "U8",
+"text": "Painless gross hematuria still reaches the urologist late because the bleeding stops. One minute on why to investigate anyway: urinalysis, imaging and cystoscopy. #urology #oncology"
+},
+{
+"date": "2027-01-04",
+"id": "B8",
+"text": "Redelmeier (2001) and Sylvestre's reanalysis (2006) are the best example I know of immortal time bias, a frequent problem in real-world studies. #biostatistics #RWE"
+},
+{
+"date": "2027-01-06",
+"id": "U9",
+"text": "One minute of self-exam, once a month. Worth sending to young patients and to the sons of our patients. #urology #menshealth"
+},
+{
+"date": "2027-01-11",
+"id": "B9",
+"text": "The routine I give students for reading the forest plot of a meta-analysis: weights, line of no effect, diamond and heterogeneity. #metaanalysis #biostatistics"
+},
+{
+"date": "2027-01-13",
+"id": "U10",
+"text": "Recurrent UTI in women: definition, a urine culture for every episode, and non-antibiotic prevention before prophylaxis. One minute for patients. #urology #UTI"
+},
+{
+"date": "2027-01-18",
+"id": "B10",
+"text": "Borenstein and colleagues (2017) showed why I² does not measure how much the effect varies. That is why the prediction interval should sit next to the summary estimate. #metaanalysis #biostatistics"
+}
 ]
